@@ -1,2 +1,3 @@
 # MamaMiaPizzeria - Hito 1
-# deployd: 
+# deployd: <br>
+Base de la app / React bootstrap 
